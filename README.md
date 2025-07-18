@@ -2,6 +2,10 @@
 
 These are supplementary video files for the following article:
 
+William Kang, Christopher Anand, Jin Hyun Park, and Yoonsuck Choe, Evolutionary Factors Contributing to the Emergence of Prediction, *Adaptive Behavior*, 2025 (in press). (The full reference will be updated when the article is published.)
+
+For archival purposes, the contents below are freezed as of Sat, Jul 19, 2025  8:29:11 AM, Korean Standard Time.
+
 ## Task 1: Delayed Reaching Task
 
 The folders are organized as follows :
