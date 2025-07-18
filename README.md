@@ -4,7 +4,7 @@ These are supplementary video files for the following article:
 
 William Kang, Christopher Anand, Jin Hyun Park, and Yoonsuck Choe, Evolutionary Factors Contributing to the Emergence of Prediction, *Adaptive Behavior*, 2025 (in press). (The full reference will be updated when the article is published.)
 
-For archival purposes, the contents below are freezed as of Sat, Jul 19, 2025  8:29:11 AM, Korean Standard Time.
+For archival purposes, the contents below are freezed as of Sat, Jul 19, 2025  8:32:37 AM, Korean Standard Time.
 
 ## Task 1: Delayed Reaching Task
 
@@ -15,7 +15,7 @@ The folders are organized as follows :
 
 In each folder, the the file suffix indicates the fitness criteria used: ER/ERT/R/RT.
 
-The md5sum is shown in the first column so that these files can serve a archival purpose.
+The md5sum is shown in the first column so that these files can serve an archival purpose.
 
 ```
 606b53870cfc04b3b69b84c3eacad8c0 delayed-task/failed/Fail cases - ER.mp4
@@ -38,7 +38,7 @@ The single folder contains successful cases. The prefix has two parts:
 1. visibility threshold (25/50/75/100), and 
 1. network type (FFN/RNN).
 
-The md5sum is shown in the first column so that these files can serve a archival purpose.
+The md5sum is shown in the first column so that these files can serve an archival purpose.
 
 ```
 350db92cba1d3d2227197bb37af2ad74 blank-out-task/success/25 FFN Success.mp4
